@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(29, 40, 5);
+}
+header {
+    background-color: olive;
+    text-align: center;
+}
+
+h2 {
+    background-color: olive;
+    color: whitesmoke;
+    text-align: center;
+}
